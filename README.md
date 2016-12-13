@@ -4,7 +4,7 @@ Fixed Gallery3D app for Lenovo Phab 2 devices.
 ---
 Install with `adb install -r -d PhabGalleryFixed.apk`
 
-Install any social media apps which were previously failing to install with error -505, such as G+.
+Install any apps which were previously failing to install with error -505, such as G+.
 
 The Gallery app will no longer be functional. To restore the working functionality of the Gallery app:
 
