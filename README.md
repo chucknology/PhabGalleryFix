@@ -7,6 +7,6 @@ Install any social media apps which were previously failing to install with erro
 
 The Gallery app will no longer be functional. To restore the working functionality of the Gallery app:
 
-Open Settings->Apps->Gallery and select the overflow menu in the top right (three dots) and "Uninstall updates".
+Open `Settings`->`Apps`->`Gallery`, select the overflow menu in the top right (three dots) and `Uninstall updates`.
 
 After you uninstall this fix, you may need to repeat the process when affected apps such as G+ are updated.
