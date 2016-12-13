@@ -8,7 +8,7 @@ Install with `adb install -r -d PhabGalleryFixed.apk`
 
 Install any apps which previously fail to install, such as G+.
 
-The Gallery app will no longer be functional. Uninstall this update to restore the working functionality of the Gallery app:
+The Gallery app may no longer be functional. Uninstall this update to restore the working functionality of the Gallery app:
 
 Open `Settings`->`Apps`->`Gallery`, select the overflow menu in the top right (three dots) and `Uninstall updates`.
 
